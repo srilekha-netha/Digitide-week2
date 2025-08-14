@@ -1,4 +1,4 @@
-## Topic 1: Prompt Engineering
+## Session 1: Prompt Engineering
 
 ### Assignment 1: Zero-shot vs Few-shot Prompting
 **Objective:**  
@@ -22,7 +22,7 @@ Learn how role-based and chain-of-thought prompting improve response quality.
 
 ---
 
-## Topic 2: Open Source LLMs & Local Setup
+## Session 2: Open Source LLMs & Local Setup
 
 ### Assignment 1: Hugging Face Model Exploration
 # 📰 News Summarizer with Highlights
