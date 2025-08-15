@@ -49,7 +49,7 @@ Install and run a local LLM to evaluate performance.
 
 ---
 
-## Session 2: Calling LLM via Python Code
+## Session 3: Calling LLM via Python Code
 
 **Features**
 - Text Generation Script – Accepts a prompt and generates AI responses.
