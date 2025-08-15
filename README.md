@@ -46,3 +46,19 @@ Install and run a local LLM to evaluate performance.
 - Installed Ollama LLaMA 3.2 locally.  
 - Ran a test prompt: “Write a short poem about AI.”  
 - Measured response time.  
+
+---
+
+## Session 2: Calling LLM via Python Code
+
+**Features**
+- Text Generation Script – Accepts a prompt and generates AI responses.
+- Chat Script – Multi-turn conversation with context retention.
+- Streaming Output – Real-time token-by-token display of responses.
+- Error Handling – Retries, exception management, and fallback logic.
+- Configurable Parameters – Model, temperature, and max tokens adjustable from UI.
+- Logging & Caching – Faster repeated runs and debug-friendly logs.
+- Clean UI – Minimal Streamlit interface for ease of use.
+<img width="1920" height="1230" alt="screencapture-localhost-8501-2025-08-15-18_11_29" src="https://github.com/user-attachments/assets/819169f9-ebf9-4e6d-928c-57c554fece1d" />
+<img width="1920" height="2642" alt="screencapture-localhost-8501-2025-08-15-18_12_42" src="https://github.com/user-attachments/assets/1cbf3a78-cf2d-48bc-ae60-11d3be58b494" />
+
