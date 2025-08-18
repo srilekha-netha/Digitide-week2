@@ -62,3 +62,12 @@ Install and run a local LLM to evaluate performance.
 <img width="1920" height="1230" alt="screencapture-localhost-8501-2025-08-15-18_11_29" src="https://github.com/user-attachments/assets/819169f9-ebf9-4e6d-928c-57c554fece1d" />
 <img width="1920" height="2642" alt="screencapture-localhost-8501-2025-08-15-18_12_42" src="https://github.com/user-attachments/assets/1cbf3a78-cf2d-48bc-ae60-11d3be58b494" />
 
+## Session 3: Streamlit Basics – App/UI
+India Explorer is an interactive Streamlit app that lets users explore all 28 Indian states in a visually engaging way.
+**Features**
+- State Information – Short introductions powered by Groq LLaMA model.
+- AI-Generated Images – Uses Pollinations API with custom prompts for each state.
+- Cultural Insights – Explore culture, dressing styles, famous food, popular places, and language.
+- Neat UI – Clean, justified text with images aligned at the center for a smooth experience.
+<img width="1901" height="798" alt="s1" src="https://github.com/user-attachments/assets/71891a8e-531f-4a00-bdfa-aa5809132a23" />
+
